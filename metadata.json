@@ -1,0 +1,6 @@
+{
+  "name": "أكاونت برو - AccountPro",
+  "description": "منصة ذكية ومبسطة لمديري الحسابات (Account Managers) لإدارة العملاء والمهام والأولويات اليومية والتقارير بأعلى كفاءة وسهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
